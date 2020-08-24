@@ -1,0 +1,53 @@
+Point 1:-->
+
+There are 3 important framework which is based on ES6:-->
+1.Angular JS version(2-10):--> MVC/MVMM (DOM)
+2.React JS version(16) :-->Component(FB) (Virtual DOM)
+3.Ext JS 
+
+Point 2:-->
+
+React.js Why?
+1.React is not MVC.It's only use to design view.
+2.React view are reuseable component which can write ones use anywhere.
+
+
+3.React is lib not a framework so
+
+Point 3:-->
+For AJAX call in back end we used axios lib.
+
+Point 4:-->
+We can create the react application in two ways
+
+1.Custom React APP(your own folder)
+2.USing React-App CLI(define folder structure)
+
+Point5:-->
+
+1.React.js :-->React component Development/Manage Life Cycle hooks.
+2.ReactDOM :--> Render the React component on VD(Virtual DOM).
+3.Babel :--> Transform ES6+ into ES5
+4.Webpack:--> This will create  the bundle of React application in browser.
+
+Point 6:-->
+There are two important keywords used in React form:
+ a).fer keywords(HTML form)<-->React Component
+ b).refs keywords (array of ref)
+
+ Point 7:-->
+
+ React Router implementation
+ 1.Single Page Application.(Partial Rendering / AJAX Feature)
+ 2.Multi Page Application.(Page to Page navigation)
+
+ We can achieve the SPA implementation using Routing Feature(react-router)
+
+ 3.Define the All Router and Router Link in main.js
+ 4.May be in react we can fine various version of router
+
+ Point 7:-->
+ Implement React Router
+
+1.We create component
+2.We create router

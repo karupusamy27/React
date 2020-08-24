@@ -1,0 +1,14 @@
+pointer 1:--> 
+1.Class & Object
+2.There are three types of properties.
+  a).private properties/methods:-->var
+  b).public properties/methods:-->this
+  c).privilege properties/methods:-->no keywords(It's use to expose private methods)
+ 3.Prototype
+
+ Assignment 1 :--> In the Existing project wireframe Apply the 
+javascript validation in login form / Update claim form. 
+
+Assignment :-- > Develep the Basic/SCi cal using the ES 5 
+javascript implementation in which implement all the concepts 
+like:--> class/object/prototype/static etc. 

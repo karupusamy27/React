@@ -1,0 +1,16 @@
+Features of JS:
+
+1.The ooficial name of Javascript of ECMAScript
+2.There are three types of Javacript used
+   a).Internal Javascript
+   b).External Javascript
+   c).Inline Javascript
+3.There are two types of obects in JavaScript
+   a).Internal Object(Created by browser itself(console.log()))
+4.There are various version of JavaScript
+    ES 1.1/1.2/1.3/1.4/1.5/1.6/1.7/1.8
+    ES5:-->1.5:-->React .V15
+    ES6:-->1.6:-->React .V16
+5.There are two next generation compiler
+   a).Babel:-->ReactJS
+   b).TypeScript:-->Angular      

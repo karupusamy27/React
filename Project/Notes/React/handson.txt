@@ -1,0 +1,18 @@
+Hands On Topic:-->
+1.React JSX/JS Component
+2.Data binding in React
+3.Props/State
+4.Data sharing b/w the component
+5.Stateful/Stateless component
+6.Data exchange b/w the component
+7.React Component Life Cycle
+8.Rest API/Web API
+++++++++++++++++++++++++++Assignment :-- > 
+
+ Start to convert the Wireframe in React Application & set up the project in 
+ React Claim Mgmt System. 
+ 
+1. Login Component
+2. ListClaimComponent
+3. UpdatedClaim 
+++++++++++++++++++++++++++

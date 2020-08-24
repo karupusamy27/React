@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<script type="text/javascript">
+	// ES5 implementation 
+
+	// create the class in Javascript/ECMASCript 
+
+	function Person(name,age){
+		this.name=name;
+		this.age=age;
+        this.property1="welcome in wipro";
+        this.property2="bye genpact"
+		console.log('person object is init');
+	    console.log('Name of the Person-->' +this.name);
+	    console.log('Age of the Person-->' +this.age);
+	
+  // define private method and variable here 
+
+      var myPrivate='i am private impl.';
+
+      var private_stuff=function(){
+ 
+            console.log("here is private impl-->");
+     
+         return myPrivate;
+        }   
+
+
+  // define the public method here 
+
+  // public methods
+     this.method1=function(arg1){
+
+
+      return arg1 + " " + this.property1;
+     }
+
+    // public methods
+     this.method2=function(arg2){
+
+
+      return arg2 + " " + this.property2;
+     }
+
+  // the previledge method here 
+
+    this.preMethod=function(){
+
+         console.log('call the previledge method here-->');
+    	return private_stuff();
+    }
+    //prototype
+    Person.prototype.test=100;
+    Person.prototype.sayHello=function(){
+     console.log('add new method');
+     return this.test;
+    }
+
+	}	
+	//definr static keyword
+	Person.test1=101;
+	Person.testMethod=function(){
+		return 'static method';
+	}
+
+    var p=new Person('Amith',34);
+
+  // call the public method here 
+
+   console.log('calling the public method here-->' +p.method1('Hello'));
+   console.log('calling the another method here-->' +p.method2('hey'));
+  // console.log('calling the private impl-->' +p.private_stuff());
+  // previledge method here 
+
+  console.log('calling previlidge method here-->' +p.preMethod());
+  console.log('prototype method here'+p.sayHello());
+  console.log('static variable '+Person.test1);
+  console.log('static method '+Person.testMethod());
+	</script>
+</head>
+<body>
+
+</body>
+</html>

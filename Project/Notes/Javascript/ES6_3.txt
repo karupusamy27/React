@@ -1,0 +1,11 @@
+ES6 Topics:-->
+1.Class/Object/Constructor
+2.Properties/Methods
+  a).public Properties/Methods (No support in browser)
+  b).private Properties/Methods this(No need of this keyword)
+  b).previledge Properties/Methods this(No need of this keyword)
+  b).static Properties/Methods static(No need of this keyword)
+Why ES6:-->
+1.It's more readable because it use various new keyword to define methods/class which is very nearer to get implement the OOPS code
+2.It's twice to thirce time faster as comparision of ES5code.
+3.Code is more readable and maintable.

@@ -1,0 +1,41 @@
+Day 1:
+
+Point 1:-->
+Features of UX ;
+1.Responsive is the key part of UX.
+2.PWA(Progressive Web App)
+3.Adapetive Component/Look & Feel(CSS 3)
+4.Accisability
+
+Point 2:-->
+Selectors used in CSS3
+. -->class selector
+# -->id selector
+[] -->attribute selector
+<> -->selector
+
+Point 3:-->
+Box Model
+
+Point 4:-->
+2D/3D Transformation
+
+start to develop the technical wireframe of project using html 4/css 3
+
+Day 2:
+
+point 1:-->
+
+There are four important rules in CSS3
+
+1.@Keyframe :--> Animation,
+2.@import :-->Import one CSS to another,
+3.@media :-->Responsiveness
+4.@fontface :-->make font universal in project
+
+point 2:-->
+
+There are three type of CSS used in Development
+1.Internal CSS <style></style>
+2.Inline CSS (write with element).
+3.External CSS (@import 

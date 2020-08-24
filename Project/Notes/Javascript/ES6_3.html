@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<script type="text/javascript">
+		//ES6 imple
+		class Person{
+			constructor(name,age){
+				this.name=name;
+				this.age=age;
+				this._test=100;
+				console.log('Person is created');
+				console.log('Name of the Person is:-->'+this.name);
+				console.log('Age of the Person is:-->'+this.age);
+			}
+			//previledge method impl
+			preMethod(){
+				console.log('previledge method impl:-->');
+				return this._stuffPrivate();
+			}
+			//private method impl
+			_stuffPrivate(){
+				console.log('Call the private properties:-->'+this._test);
+				return this._test;
+			}
+			//public method impl
+			getConCatValue(){
+				return this.concat();
+			}
+			concat(){
+				return this.name+" "+this.age;
+			}
+			//satic method impl
+			static testStatic(){
+				return 'Here static method impl';
+			}
+		}
+		let person=new Person('Dark',23);
+		console.log('calling public method:-->'+person.getConCatValue());
+		console.log('calling private method:-->'+person._stuffPrivate());
+		console.log('calling private method:-->'+person.preMethod());
+		console.log('calling static method:-->'+Person.testStatic());
+	</script>
+</head>
+<body>
+
+</body>
+</html>

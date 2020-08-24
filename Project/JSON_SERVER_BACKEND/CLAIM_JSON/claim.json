@@ -1,0 +1,54 @@
+{
+  "claims": [
+    {
+      "id": 1,
+      "first_name": "karupu",
+      "last_name": "samy",
+      "claim_num": "123-112-123",
+      "claim_type": "Received",
+      "claim_pro": "active",
+      "claim_sd": "2132-12-31",
+      "claim_ed": "0003-12-31"
+    },
+    {
+      "id": 2,
+      "first_name": "naveen",
+      "last_name": "kumar",
+      "claim_num": "131-121-123",
+      "claim_type": "Pending",
+      "claim_pro": "Active",
+      "claim_sd": "3131-12-31",
+      "claim_ed": "0233-12-31"
+    },
+    {
+      "id": 3,
+      "first_name": "inba",
+      "last_name": "raj",
+      "claim_num": "123",
+      "claim_type": "Submitted",
+      "claim_pro": "1231",
+      "claim_sd": "0224-12-04",
+      "claim_ed": "0124-12-04"
+    },
+    {
+      "id": 4,
+      "first_name": "ragul",
+      "last_name": "gandhi",
+      "claim_num": "123",
+      "claim_type": "Submitted",
+      "claim_pro": "213123",
+      "claim_sd": "23123-12-31",
+      "claim_ed": "11212-12-12"
+    },
+    {
+      "id": 5,
+      "first_name": "anand",
+      "last_name": "raj",
+      "claim_num": "123-123-123",
+      "claim_type": "Received",
+      "claim_pro": "active",
+      "claim_sd": "2020-08-21",
+      "claim_ed": "2020-08-27"
+    }
+  ]
+}

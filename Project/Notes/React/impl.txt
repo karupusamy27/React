@@ -1,0 +1,103 @@
+Point 1:-->
+React Component--> Virtual DOM-->Physical DOM
+
+Point 2:-->
+1.For React data binding we used react expression 
+       React Expression: { }
+2.It's used for one way binding
+3.If we wan to bind the model in react we used two implicit react object:-->props/state
+    a).props is stateless object
+    b).state is state object
+
+ Point 3:-->
+ Fore React Bootstrap we have three important lib used in React App
+   a).React-bootstrap
+   b).React Material UI
+   c).React primeNG
+
+Point 4:-->
+All life cycle methods are used in React
+as React hook?
+     a).Various life cycle hook available in React Js
+     b).The use of React hook to do the manipulation of data over the React Component
+
+Point 5:-->
+ComponentdidMount (API get ca)
+
+Point 6:-->
+JSON Command;-->
+
+$ json-server --port 7000 --routes routes.json --watch claim.json
+
+Point 7:-->
+Change Method(componentDidMount) url in Fetch.jsx
+
+--------------------------------------
+Assignment :-- improve your react Claim App with React bootstrap component which must be 
+responsive . & complete the React Claimlist component with end to end integration with JSON server & Axios React lib.
+--------------------------------------
+axios.get(`https://localhost:7000/user`)
+
+Point 8:-->
+
+Debugger in React
+
+There are two type of debugging used in react APP
+   a).Browser based tool(React Developer tools)
+   b).Logger in React (optional)
+
+Point 9:-->
+
+Features of Redux:
+1.Redux is a tiny lib which is using for global state management.
+2.Using the Redux,we can achieve the Flux architecture
+  Evolved form of MVC:-->
+    M:-->Model :-->Store
+    V:-->View  :-->React View
+    C:-->Controller :-->Dispatcher
+
+ a).Flux:-->
+    Action--> Dispatcher--> Store -->Reducer-->
+3.Redux support three important principle
+   a).Single source of truth:--> The global state of your application store in an object tree within single store
+   b).state is read only :-->State is read only till emit the action for perfom the operation.
+   c).Change are made with pure function(Reducer) in the state of Redux application. 
+Point 10:-->
+
+Integration with MaterialJS
+
+Point 11:-->
+1.Testing in React APP(JEST)
+   TDD:-- TDD Env is the responsibility of developer(UI/UX) / Back End
+2.For TDD Env We used Jest in React App.
+3.For understanding of JEST, we have a good idea about Jasmine (JEST used internally the Jasmine Engine)
+4.In Jasmine/JEST there are three important functions
+  a).describe()/test():--> Test Suite
+  b).it():--> Test Case
+  c).expect():--> Matcher
+5.NPM dependencies, we need to install npm jest/jest-cli
+6.First Test Case/ Write in Jasmine:-->
+
+Point 12:-->
+For creating new test React App creation:$ npx create-react-app hello-world
+
+Point 13:-->
+
+1.Fore Lint React/Redux app are using the ESLint
+2.This ESLint is primarily used to capture the language related issues & inforce code style & best practices.
+3.For Lint we need to add the plugin in the React.
+4.Execute the npm command line
+
+Point 14:-->
+
+1.Next.js:-->Scale the React Application.
+   Scenerio:--> You are rendering the big image in your E-Commercial website.
+
+   Display the TV(Variety of TV Screen).
+
+   axios.get('get','URL');
+
+   componentDidMount(){
+     Take some time to rener data
+   }
+   render();

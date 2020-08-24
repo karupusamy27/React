@@ -1,0 +1,9 @@
+1.NodeJS is client server side framework which helps to develop & host the client side component independently.
+2.There are three marjor component in Node.js:-->V8 Chrome Engine + Http Server +NPM
+Role:-->V8 chrome Engine (It's execute the JS/ES scropt without browser)
+NPM:-->Node package manager using to add dependencies in the project
+3.Node have various Modules
+ a).Implicit module (FS/HTTP/OS) 
+ b).Explicit module (Which is created by developer)
+ 4.We have to write the script in JS/ES and Host that script in Node Wnv
+ 5.Node used basically

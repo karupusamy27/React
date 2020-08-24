@@ -1,0 +1,7 @@
+Features in HTML5:
+1.Less Loc(line of code)
+2.New tag introduced(basic tab+ form tag)
+3.New JavaScript API Introduced in HTML5
+4.It's used in Angular Template/React Template
+5.It's stable version used by chrome/other browser
+<section>,<figure><header>,<nav>,<footer>

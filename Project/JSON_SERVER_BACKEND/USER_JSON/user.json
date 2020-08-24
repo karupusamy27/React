@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "username":"karupu",
+      "password":"karupu123"
+    },
+    {
+      "username":"dark",
+      "password":"dark123"
+    },
+    {
+      "username":"inba",
+      "password":"inba123"
+    },
+    {
+      "username":"ragul",
+      "password":"ragul123"
+    },
+    {
+      "username":"naveen",
+      "password":"naveen123"
+    }
+  ]
+}
